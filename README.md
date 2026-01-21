@@ -1,6 +1,17 @@
 # 📋 Job Board Application - React Router Mastery
 
-A premium job board application built with **React**, **Vite**, and **Tailwind CSS v4**. This project demonstrates advanced navigation patterns, including URL parameters and state preservation during transitions.
+## 🌟 Project Overview
+This is a React-based Job Board application featuring a premium UI and advanced routing logic. The project focuses on 5 specific job listings with distinct locations and roles:
+
+1. **Varun** - Software Engineer (Banglore) - ₹28,000
+2. **Rohith** - Frontend Developer (Chennai) - ₹27,500
+3. **Rocky** - Backend Developer (Noida) - ₹26,500
+4. **Vijay** - Full Stack Developer (Karnataka) - ₹28,400
+5. **Chetan** - DevOps Engineer (Kerela) - ₹26,700
+
+### 🔄 Navigation Flow
+The application follows a strict state-preserving navigation flow:
+**Job Listings** → (click job) → **Job Details** → (click apply) → **Application Form**
 
 ---
 
